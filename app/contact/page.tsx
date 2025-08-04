@@ -155,7 +155,7 @@ export default function Contact() {
             {/* Map Section (moved outside the grid for better height balance) */}
             <div className="mt-12">
               <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-8 text-center">Our Location on Map</h3>
-              <div className="aspect-video bg-gray-200 dark:bg-gray-800 rounded-lg overflow-hidden">
+              <div className="aspect-video bg-gray-200 dark:bg-gray-800 rounded-lg overflow-hidden w-[1200px] h-[350px]">
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3685.877718352511!2d49.83674824042912!3d40.38211898278052!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307d640daa4cb5%3A0x8f57e7e504a1dd71!2sAF%20City!5e0!3m2!1sen!2sus!4v1754307781503!5m2!1sen!2sus"
                   width="100%"
