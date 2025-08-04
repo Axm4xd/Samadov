@@ -7,6 +7,7 @@ export default function Home() {
     <div className="min-h-screen bg-white dark:bg-gray-900 transition-colors duration-300">
       <Header />
 
+
       {/* Hero Carousel */}
       <HeroCarousel />
 

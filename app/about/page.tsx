@@ -162,10 +162,10 @@ export default function About() {
               </p>
               <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
                 <button className="btn-primary px-8 py-3 bg-gradient-to-r from-red-500 to-orange-500 text-white font-semibold rounded-full hover:from-red-600 hover:to-orange-600 transition-all duration-300 transform hover:scale-105">
-                  View Portfolio
+                  <a href="../portfolio">View Portfolio</a>
                 </button>
                 <button className="btn-secondary px-8 py-3 border-2 border-white/20 text-white font-semibold rounded-full hover:border-white/40 hover:bg-white/5 transition-all duration-300 transform hover:scale-105">
-                  Contact Us
+                  <a href="../contact">Contact Us</a>
                 </button>
               </div>
             </div>
